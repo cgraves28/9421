@@ -2,7 +2,7 @@
 <html>
 <body>
   <h1>Welcome To C.J.'s Treats</h1>
-  <h3>We have delicious treats for sale</h3>
+  <h3 style="text-align:center;"><i>So Many Delecious Treats!</i></h3>
   <table>
     <tr>
       <th>COOKIES</th>
@@ -29,12 +29,13 @@
   <p>Our prices cant be beat!</p>
   <dl>
     <dt>Cookies</dt>
-    <dd>$6.00 per dozen</dd>
+    <dd><b>$6.00 per dozen</b></dd>
     <dt>Cakes</dt>
-    <dd>$10.00 (3 tier)</dd>
+    <dd><b>$10.00 (3 tier)</b></dd>
     <dt>Pies</dt>
-    <dd>$5.00</dd>
+    <dd><b>$5.00</b></dd>
   </dl>
   <a href="https://www.google.com/">CLICK HERE TO ORDER</a>
+  <img src= alt=
 </body>
 </html>
