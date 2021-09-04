@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <body>
-  <h1>Welcome To C.J.'s Treats</h1>
+  <h1 style="background-color:Green;">Welcome To C.J.'s Treats</h1>
   <h3 style="text-align:center;"><i>So Many Delecious Treats!</i></h3>
   <table>
     <tr>
